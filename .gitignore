@@ -3,3 +3,14 @@
 *.tfstate
 *.tfstate.backup
 .terraform.lock.hcl
+*.tfplan
+# Crash log files
+crash.log
+# Override files that should not be committed
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+# CLI configuration files
+terraform.tfvars
+*.auto.tfvars
