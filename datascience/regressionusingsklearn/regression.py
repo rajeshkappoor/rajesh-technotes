@@ -69,11 +69,12 @@ print("R2 Score:", r2_score(y_test, y_pred))
 # Step 8: Predict for New Data
 # ---------------------------
 new_car = pd.DataFrame({
-    'model': ['Toyota'],
-    'year': [2015],
+    'model': ['BMW'],
+    'year': [2025],
     'mileage': [50000]
 })
 
 print("\nNew Car Data:", new_car)
 predicted_price = model.predict(new_car)
 print("\nPredicted Price for new car:", predicted_price[0])
+
