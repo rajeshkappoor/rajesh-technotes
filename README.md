@@ -1,6 +1,6 @@
 # Welcome to My Tech Notes
 
-Here are some of my notes:
+Here are some of my tech notes:
 
 
 - [AKS - Integration with Key Vault](AKS/Integration_with_keyvault/)
