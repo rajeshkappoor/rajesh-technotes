@@ -15,3 +15,7 @@ override.tf.json
 terraform.tfvars
 *.auto.tfvars
 myenv
+venv/
+.env
+__pycache__/
+*.pyc

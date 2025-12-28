@@ -9,3 +9,4 @@ Here are some of my tech notes:
 - [Azure -Networking - Creating ExpressRoute Circuit](Azure/Networking/Creating_express_route_circuit)
 - [Azure -Networking - Routing using Azure Front Door](Azure/Networking/routing_using_azure_frontdoor)
 - [Azure -Networking - Configuring Azure VWAN](Azure/Networking/Configuring_Azure_VWAN)
+- [Azure AI - Deploying language model using Azure Foundry](Azure-AI/Deploy_Language_model_using_Azure_Foundry/)
