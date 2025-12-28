@@ -10,3 +10,4 @@ Here are some of my tech notes:
 - [Azure -Networking - Routing using Azure Front Door](Azure/Networking/routing_using_azure_frontdoor)
 - [Azure -Networking - Configuring Azure VWAN](Azure/Networking/Configuring_Azure_VWAN)
 - [Azure AI - Deploying language model using Azure Foundry](Azure-AI/Deploy_Language_model_using_Azure_Foundry/)
+- [Azure AI - Create a generative AI chat app using Foundry](Azure-AI/Create_a_generative_ai_chat_app_using_foundry/)
