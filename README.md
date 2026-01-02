@@ -11,3 +11,5 @@ Here are some of my tech notes:
 - [Azure -Networking - Configuring Azure VWAN](Azure/Networking/Configuring_Azure_VWAN)
 - [Azure AI - Deploying language model using Azure Foundry](Azure-AI/Deploy_Language_model_using_Azure_Foundry/)
 - [Azure AI - Create a generative AI chat app using Foundry](Azure-AI/Create_a_generative_ai_chat_app_using_foundry/)
+- [Creating FAISS index for document search](Azure-AI/Creating_FAISS_Vector_search_index)
+- [Create a RAG Application using Foundry](Azure-AI/Create_a_RAG_Application_using_Foundry/)
