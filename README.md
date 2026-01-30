@@ -13,3 +13,4 @@ Here are some of my tech notes:
 - [Azure AI - Create a generative AI chat app using Foundry](Azure-AI/Create_a_generative_ai_chat_app_using_foundry/)
 - [Creating FAISS index for document search](Azure-AI/Creating_FAISS_Vector_search_index)
 - [Create a RAG Application using Foundry](Azure-AI/Create_a_RAG_Application_using_Foundry/)
+- [Building a agent using Azure Foundry extension in VS Code](Azure-AI/Build_AI_Agent_using_VScode_Foundry_Extension/)

@@ -2,6 +2,9 @@
 
 In this article, I will be explaining procedure to create a RAG (Retrieval-Augmented Generation) application using Azure AI Foundry. RAG combines the power of pre-trained language models with external knowledge sources to generate more accurate and contextually relevant responses. This approach is particularly useful for applications such as chatbots, virtual assistants, and question-answering systems.
 
+## References
+
+https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html 
 
 ## Procedure
 
